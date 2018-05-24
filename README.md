@@ -1,8 +1,10 @@
 # Dapp, Truffle: To Do 
 
 - Links:
-	- [How to Build Ethereum Dapp (Decentralized Application Development Tutorial), Dapp University, YouTube](https://www.youtube.com/watch?v=3681ZYbDSSk)
-	- [Step by Step Guide to Build a Dapp, Moses Sam Paul, Medium](https://medium.com/heptagon/step-by-step-guide-to-build-a-dapp-a-homo-sapiens-2-day-love-affair-with-ethereum-dapp-de2b0dea12f1)
+	- [Build a Fully Decentralized Application with IPFS - Ethereum Dapp Programming Tutorial, Dapp University, YouTube](https://www.youtube.com/watch?v=ADoRVVOSpI8) 
+	- [How to Get Started with IPFS Decentralized Storage](https://mlgblockchain.com/intro-ipfs.html)
+	- [How to Host Your IPFS Files Online Forever](https://medium.com/@merunasgrincalaitis/how-to-host-your-ipfs-files-online-forever-f0c56b9b5398)
+
 
 - Tools:
 	- Truffle: framework to create dapps on the ethereum network
