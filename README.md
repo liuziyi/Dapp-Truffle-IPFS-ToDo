@@ -35,7 +35,7 @@
 
 ![](images/ipfs-publish.png)
 
-- Access it: https://gateway.ipfs.io/ipfs/Qme6oSSExhNum5cYvXbyt1zzq1v7py87eT2zNBWW1BGyEm
+- Access it: https://gateway.ipfs.io/ipfs/QmQY66qooDpvjfaGtWuPHDzC5WHXPZ1q1smRssBWxvd2n3
 
 
 
