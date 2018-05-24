@@ -1,4 +1,4 @@
-# Dapp, Truffle: To Do 
+# Dapp, Truffle, IPFS: To Do 
 
 - Links:
 	- [Build a Fully Decentralized Application with IPFS - Ethereum Dapp Programming Tutorial, Dapp University, YouTube](https://www.youtube.com/watch?v=ADoRVVOSpI8) 
